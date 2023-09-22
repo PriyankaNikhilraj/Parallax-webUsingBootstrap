@@ -1,0 +1,56 @@
+.container{
+    justify-content: center;
+}
+.img1{
+    background-image: url('images/pexel1.webp'); 
+    text-align: center;
+    padding: 20%;
+    background-attachment: fixed;
+
+}
+.sec1{
+    text-align: center;
+    color:gray;
+}
+.img2{
+    padding: 15%;
+    background-image: url('images/pexels-3.jpeg');
+    text-align: center;
+    background-attachment: fixed;
+}
+.hd1{
+    background-color: black;
+    color: antiquewhite;
+    
+}
+.hd2{
+    color: white;
+}
+.img3{
+    padding: 15%;
+    background-image: url('images/pexels-4.jpg');
+    background-attachment: fixed;
+
+}
+.hd4{
+    color: white;
+    text-align: center;
+}
+.sec2{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2%;
+}
+.sec3{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2%;
+}
+.hd5{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1%; 
+}
